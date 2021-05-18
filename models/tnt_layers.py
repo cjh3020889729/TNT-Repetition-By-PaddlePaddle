@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Author: 二月三
+# @Author: 喝鱼汤的鱼儿
 # @Date:   2021-05-18 10:11:30
-# @Last Modified by:   二月三
+# @Last Modified by:   喝鱼汤的鱼儿
 # @Last Modified time: 2021-05-18 22:24:34
 import paddle
 from paddle import nn
