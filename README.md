@@ -19,7 +19,7 @@
     
 # 复现指导
 
-指导复现说明在notebook中有较为详细的说明
+指导复现说明在<a href="https://github.com/cjh3020889729/TNT-Repetition-By-PaddlePaddle/blob/main/tnt_rep.ipynb">notebook</a>中有较为详细的说明
 
 
 # 运行环境
