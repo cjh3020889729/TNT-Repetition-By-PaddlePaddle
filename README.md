@@ -3,7 +3,7 @@
 
 # 复现源码
 
-源码存放在models文件夹下：
+源码存放在<a href="https://github.com/cjh3020889729/TNT-Repetition-By-PaddlePaddle/tree/main/models">models</a>文件夹下：
 
     - test.py   提供一些TNT的常用配置方法
     
